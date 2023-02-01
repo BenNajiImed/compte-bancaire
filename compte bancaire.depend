@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1610397457 source:c:\users\imedb\onedrive\desktop\new folder\compte bancaire\compte bancaire.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"comte bancaire.h"
+
+1610395656 c:\users\imedb\onedrive\desktop\new folder\compte bancaire\comte bancaire.h
+
+1610444520 source:c:\users\imedb\onedrive\desktop\new folder\compte bancaire\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"comte bancaire.h"
+
